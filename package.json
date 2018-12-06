@@ -1,0 +1,15 @@
+{
+  "name": "music-collection",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "music-collection": "bin/music"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "lowdb": "^1.0.0",
+    "minimist": "^1.2.0"
+  }
+}
